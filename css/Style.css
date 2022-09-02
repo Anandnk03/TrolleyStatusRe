@@ -1,0 +1,60 @@
+.trolley-status .navbar {
+  background-color: black;
+  height: 60px;
+}
+.trolley-status .navbar .row {
+  width: 100%;
+}
+.trolley-status .navbar h1 {
+  font-size: 2rem;
+  color: white;
+  text-align: center;
+  padding-left: 25px;
+}
+.trolley-status .cureenttime span {
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.trolley-status img {
+  height: 40px;
+}
+.trolley-status .class {
+  background-color: yellow;
+}
+
+.tablestatus {
+  margin: 5px 15px;
+  box-shadow: 2px 2px 2px silver;
+  border-radius: 9px;
+}
+.tablestatus .NameClasss {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.tablestatus .table tr td {
+  padding: 5px 5px;
+  border-radius: 9px;
+}
+.tablestatus .table .bodystyle tr td {
+  font-weight: bold;
+  font-size: 1.2rem;
+  border-radius: 5px 5px;
+}
+.tablestatus .headclass {
+  background-color: #f10909;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  padding: 5px;
+  border-radius: 9px;
+  width: 100%;
+}
+.tablestatus .headclass1 {
+  width: 290px;
+}/*# sourceMappingURL=Style.css.map */
